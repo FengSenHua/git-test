@@ -9,4 +9,8 @@ public class FirstGit {
         System.out.println("hello git project");
         System.out.println("hello git project");
     }
+public void test(){
+
+}
+
 }
